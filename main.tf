@@ -3,7 +3,7 @@ terraform {
     organization = "migration_poc"
 
     workspaces {
-      name = "migration_totale_poc" 
+      name = "terraform_migration_poc" 
     }
   }
 
